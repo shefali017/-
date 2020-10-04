@@ -1,0 +1,67 @@
+body{
+
+}
+.begin{
+  font-family: 'Engagement', cursive;
+  font-size: 7rem;
+  color: white;
+  text-align: center;
+  padding-bottom: 50px;
+}
+.car{
+  margin: auto auto 0 50px;
+  width: 60%;
+  color:white;
+  font-size: 1.2rem;
+}
+p{
+  font-family: 'Rancho', cursive;
+  font-size: 1.5rem;
+  text-align: center;
+    color: #f2a07b;
+}
+.p-first{
+  margin-top: 40px;
+}
+.p-two{
+    color: #d49a89;
+    font-size: 1.5rem;
+}
+.p-three{
+  margin-top: 30px;
+}
+ .coloumn1{
+   margin-top: 40px;
+ }
+
+.increase{
+  width: 80%;
+}
+.second-last{
+  font-size: 1.7rem;
+  color: #d49a89;
+  width: 70%;
+  margin: 50px auto auto auto;
+}
+.last{
+  width: 50%;
+  margin: 30px auto auto auto;
+    font-size: 1.7rem;
+}
+
+.carousel-item{
+  position: absolute;
+}
+.pictures{
+  position: relative;
+  left: 110px;
+}
+.cupcake{
+  background-color: white;
+  margin-left: 200px;
+}
+.start{
+  color:white;
+  background-color: black;
+  padding: 7% 7%;
+}
